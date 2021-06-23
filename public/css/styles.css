@@ -1,0 +1,88 @@
+header {
+    font-family: 'Roboto', sans-serif;;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ebebeb;;
+}
+
+header.principal {
+    background-color: #EAC926;;
+    margin: 0px;
+    border: 0px;
+    width: 100vw;
+}
+
+footer {
+    background-color: #EAC926;;
+}
+
+div.burguer-menu {
+    background-color: #EAC926;
+}
+
+p.precio {
+    font-size: 18px;
+}
+
+h3.titulares {
+    font-size: 24px;
+}
+
+p.descuento {
+    font-size: 16px;
+}
+
+p.NombreProducto {
+    font-size: 16px;
+}
+
+footer {
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    width: 100vw;
+}
+
+.logo-barra-busqueda {
+    display:flex;
+    justify-content: space-between;
+}
+
+.compra-en-cuotas {
+    display:flex;
+}
+
+.barra-navegacion {
+    display:flex;
+
+}
+
+.section-body {
+    display: flex;
+}
+
+.titular-seccion {
+    text-align: center;
+    width: 100vw
+}
+
+article {
+    margin: 5px;
+    border: solid 1px black;
+    padding: 8px;
+    box-shadow: 10px 5px 5px #707070;
+    background-color: white;
+}
+
+.descuento {
+    color: #39b54a;
+}
+
+.fa-truck {
+    color: #39b54a;
+    padding: 3px;
+    border: 1px solid #39b54a;
+    border-radius: 100%
+}
