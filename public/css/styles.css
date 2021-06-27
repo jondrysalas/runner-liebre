@@ -56,6 +56,8 @@ footer {
 
 .barra-navegacion {
     display:flex;
+    flex-direction: row;
+    justify-content: space-between;
 
 }
 
@@ -86,3 +88,12 @@ article {
     border: 1px solid #39b54a;
     border-radius: 100%
 }
+
+.first-option {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+
+}
+
